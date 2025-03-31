@@ -1,0 +1,4 @@
+name=Олеся
+age=19
+city=Москва
+email=mirai.nonachi@gmail.com
