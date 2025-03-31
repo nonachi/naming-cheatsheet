@@ -35,7 +35,7 @@ const primerNombre = 'Nonachi'
 const amigos = ['Kate', 'John']
 
 /* Good */
-const firstName = 'Gustavo'
+const firstName = 'Kate'
 const friends = ['Kate', 'John']
 ```
 
