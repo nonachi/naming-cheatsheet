@@ -1,0 +1,4 @@
+name=Рыцарь
+age=18
+city=Акалиф
+email=knight@gmail.com
