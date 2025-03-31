@@ -1,3 +1,5 @@
+I love cookies!
+
 MIT License
 
 Copyright (c) 2019—preset Artem Zakharchenko
